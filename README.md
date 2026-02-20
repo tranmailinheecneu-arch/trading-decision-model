@@ -1,13 +1,27 @@
-## 📊 Trading Decision Model
+## Trading Decision Model
 
-### 🎯 Mục tiêu
-Xây dựng mô hình hỗ trợ quyết định giao dịch (Buy – Sell – Hold) dựa trên dữ liệu lịch sử thị trường tài chính.
+### Project Objective
+Develop a data-driven trading decision model (Buy – Sell – Hold) based on historical financial market data to support quantitative investment decisions.
 
-### 📌 Phương pháp
-- Tiền xử lý dữ liệu  
-- Phân tích khám phá dữ liệu (EDA)  
-- Xây dựng chiến lược dựa trên chỉ báo kỹ thuật cơ bản  
-- Đánh giá hiệu quả so với chiến lược Buy-and-Hold  
+### Methodology
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA) to understand trends and volatility  
+- Feature selection based on basic technical indicators  
+- Strategy construction for Buy – Sell – Hold signals  
+- Performance evaluation compared with Buy-and-Hold benchmark  
 
-### 🛠 Công cụ sử dụng
-- Python (Pandas, NumPy, Matplotlib)
+### Evaluation Metrics
+- Cumulative return  
+- Volatility comparison  
+- Basic risk assessment  
+
+### Tools & Technologies
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+
+### Key Learning Outcomes
+- Applied quantitative analysis to financial datasets  
+- Improved understanding of trading strategy design  
+- Strengthened data-driven decision-making skills  
